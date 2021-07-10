@@ -1,0 +1,13 @@
+C:\biooffice\anviz_reader\bin\boreader.exe
+C:\biooffice\anviz_reader\bin\boreader.xml
+C:\biooffice\anviz_reader\obj\Release\boreader.boreader.resources
+C:\biooffice\anviz_reader\obj\Release\boreader.vbproj.GenerateResource.Cache
+C:\biooffice\anviz_reader\obj\Release\boreader.exe
+C:\biooffice\anviz_reader\obj\Release\boreader.xml
+C:\biooffice\anviz_reader_panelcontrol\obj\Release\boreader.vbproj.GenerateResource.Cache
+C:\biooffice\anviz_reader_panelcontrol\bin\boreader_panelcontrol.exe
+C:\biooffice\anviz_reader_panelcontrol\bin\boreader_panelcontrol.xml
+C:\biooffice\anviz_reader_panelcontrol\obj\Release\boreader_panelcontrol.exe
+C:\biooffice\anviz_reader_panelcontrol\obj\Release\boreader_panelcontrol.xml
+C:\biooffice\anviz_reader_panelcontrol\obj\Release\boreader_panelcontrol.boreader_panelcontrol.resources
+C:\biooffice\anviz_reader_panelcontrol\obj\Release\boreader_panelcontrol.Resources.resources
